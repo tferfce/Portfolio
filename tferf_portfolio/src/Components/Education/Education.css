@@ -1,0 +1,36 @@
+.edu-head {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+
+}
+
+.edu-subhead {
+    display: flex;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+}
+
+.edu-dep {
+    display: flex;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+.edu-rest {
+    font-style: italic;
+    text-align: right;
+    font-weight: bolder;
+    float: left;
+}
+
+.edu-courses {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+
+}

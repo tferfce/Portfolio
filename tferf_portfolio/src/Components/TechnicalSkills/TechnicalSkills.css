@@ -1,0 +1,12 @@
+  .skill-container {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .t-head {
+    font-family: 'Times New Roman',
+      Times,
+      serif;
+    font-size: 80px;
+  }

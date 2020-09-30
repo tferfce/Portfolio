@@ -1,0 +1,26 @@
+.Portfolio-container {
+    display: flex;
+
+}
+
+
+
+.sidenav-container {
+    width: 500px;
+    align-items: center;
+    position: relative;
+
+}
+
+@media only screen and (min-width: 600px) {
+    .sidenav-container {
+        border-right: 3px ridge;
+    }
+}
+
+.main-container {
+    flex-grow: 50;
+    margin: 30px;
+
+
+}

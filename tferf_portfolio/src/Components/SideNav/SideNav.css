@@ -1,0 +1,14 @@
+.avatar {
+    width: 140px;
+    padding: 3px;
+    border: 2px ridge black;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+
+.subt {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
